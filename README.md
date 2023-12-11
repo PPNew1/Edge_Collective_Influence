@@ -1,5 +1,5 @@
 # Edge Collective Influence and Dual Competitive Percolation
-These codes implement the ECI, IECI and IECIR network dismantling algorithm and DCP and IDCP percolation models proposed in 
+These codes implement the ECI, IECI and IECIR network dismantling algorithms and DCP and IDCP percolation models proposed in 
 
 > Peng, P., Fan, T., Ren, X. L., & Lü, L. (2023). Unveiling Explosive Vulnerability of Networks through Edge Collective Behavior. arXiv preprint arXiv:2310.06407.
 > <https://arxiv.org/abs/2310.06407>
